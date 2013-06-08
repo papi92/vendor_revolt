@@ -73,3 +73,11 @@ add_lunch_combo revolt_yuga-userdebug
 ## Asus
 # tf300t
 add_lunch_combo revolt_tf300t-userdebug
+
+## Asus
+# xt926
+add_lunch_combo revolt_xt926-userdebug
+
+
+
+
